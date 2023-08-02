@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    width: 20rem;
+    background-color: green;
+    cursor: pointer;
+    color: wheat;
+    text-align: center;
+    background-color:green ;
+    justify-content: center;
+    font-size: 25px;
+    border-radius: 5px;
+}   
